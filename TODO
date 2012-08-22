@@ -1,0 +1,13 @@
+DOES IT WORK?
+ X  Tracking users
+    Untracking users
+    Updating records
+    Matching users to events
+
+TODO
+    Notify if profile is not accessible 
+        (and add flag so it doesnt happen again)
+    Match user to event only if record changes within allotted timestamp
+    Monthly leaderboard w/ daily updates (via @ElixirWarBulletin)
+*** Add scheduled events...b/c hosts are lame
+
